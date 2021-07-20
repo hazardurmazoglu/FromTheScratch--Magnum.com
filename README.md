@@ -1,3 +1,13 @@
+# USED TECHNOLOGIES
+
+Smooth Scroll
+Font-Awesome
+React Router
+
+# Copyright
+
+This project is only made for self-education. I don't have the rights of images, logos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
